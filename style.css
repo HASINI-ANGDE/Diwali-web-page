@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Roboto:wght@700&display=swap');
+
+.diwali-bgimage {
+    background-image: url("https://t4.ftcdn.net/jpg/06/54/93/33/240_F_654933377_Mv4khtUoZz6Qan1pWBZYSnjrZsCj3sFl.jpg");
+    background-size: cover;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.bgtext-heading {
+    color: white;
+    font-size: 34px;
+    font-family: 'Caveat', cursive;
+}
+
+.bottom-section {
+    background-color: #e6f6ff;
+    padding: 30px;
+}
+
+.bottom-card {
+    text-align: center;
+    background-color: white;
+    width: 150px;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.bottom-image {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 10px;
+}
+
+.bottom-heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.bottom-paragraph {
+    font-size: 16px;
+    font-weight: bold;
+}
